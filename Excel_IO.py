@@ -6,7 +6,7 @@ import openpyxl
 #***************************************************************
 #USER DEFINED INPUTS:
 
-api_key = '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'
+api_key = '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' #fake key
 path = '/Users/kevinjennings/Documents/ChatGPT_API/Test.xlsx'
 
 #read cell:
